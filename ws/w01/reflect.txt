@@ -1,0 +1,8 @@
+Reflection
+Woohyun Kim
+wkim31@myseneca.ca
+122733157
+
+This workshop taught me that to create new lines, you would need to insert \n at the end of your strings in order to create new lines.
+If you do not insert the \n escape sequence, the text would not be properly displayed, instead showing all the text in a single line.
+Also, it taught me the valuable method of uploading files to a remote host using an SSH client and a SFTP client.

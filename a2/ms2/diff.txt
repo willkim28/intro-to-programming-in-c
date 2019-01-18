@@ -1,0 +1,10 @@
+
+In line number 37 of your output:
+The output should be:
+Integer entered: 250
+But your output is: 
+Integer entered: 0
+                 ^
+-----------------|
+Professor's character ASCII code: hex(32), dec(50)
+un-matched character ASCII code: hex(30), dec(48)

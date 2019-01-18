@@ -1,0 +1,16 @@
+/* -------------------------------------------
+Name: Woohyun Will Kim
+Student number: 122733157
+Email: wkim31@myseneca.ca
+Section: K
+Date: 17 July 2018
+----------------------------------------------
+Assignment: 1
+Milestone:  4 Reflection
+---------------------------------------------- */
+
+1. I think this assignment has asked us to declare the struct Contact so that it becomes easier to manage the 3 different structs already declared, and readers of the code will be able to associate that the different structs are used in same purpose.
+
+2. The most difficult part of the assignment was figuring out how to properly declare the pointers, (ex (*numbers).home), and learning how to call the functions declared in another source file.
+
+3. Much longer than the combination of the previous milestones combined, a good few hours searching google and stackoverflow for hints on where I have gotten it wrong, and having the problem in the back of my head for the past week.

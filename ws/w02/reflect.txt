@@ -1,0 +1,10 @@
+1. The most valuable lesson from this workshop was that rounding values needed to be done explicitly. I've tried various methods beforehand (without adding .005) and casting the float or double value type into an int did not produce expected results. By forcing the numbers to round properly as with this case, the subsequent calculations were done correctly.
+2. Without adding .005 to the value derived, the value that should intuitively be rounded up, would be truncated instead (ex. 14.459 should round to 14.46, but would be truncated to 14.45) even if it were to display with proper values with the decimal place precision input.
+3. The decimal value is converted into a discrete integer value (essentially in pennies), then is filtered down from the largest denomination(loonies) to the smallest(pennies).
+4. Another method of I could have used to reduce the cash value during the "filtration" process was substracting the amount of coins multiplied by its appropriate value
+ex.
+	loonies = cash / 100;
+	printf("Loonies : %d\n", loonies);
+	cash -= loonies * 100;
+	
+ Modulus operator in this workshop was better since the value of the coins are constants, and did not need to be changed. The operator simplified the calculation by using the constant values of the coins; it would also calculate the cash remaining correctly regardless of errors beforehand.

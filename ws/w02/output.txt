@@ -1,0 +1,14 @@
+Script started on Tue May 29 10:35:00 2018
+]0;wkim31@mtrx-node01pd:~/w02[?1034h[wkim31@mtrx-node01pd w02]$ ws
+Please enter the amount to be paid: $8.68
+GST: 1.13
+Balance owing: $9.81
+Loonies required: 9, balance owing $0.81
+Quarters required: 3, balance owing $0.06
+Dimes required: 0, balance owing $0.06
+Nickels required: 1, balance owing $0.01
+Pennies required: 1, balance owing $0.00
+]0;wkim31@mtrx-node01pd:~/w02[wkim31@mtrx-node01pd w02]$ exit
+exit
+
+Script done on Tue May 29 10:35:07 2018

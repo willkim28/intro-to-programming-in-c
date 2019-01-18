@@ -1,0 +1,13 @@
+//--------------------------------------------------
+// Name:           Woohyun Will Kim
+// Student Number: 122733157
+// Email:          wkim31@senecacollege.ca
+// Section:        SKK
+// Workshop:       04@Home Reflection
+//--------------------------------------------------
+
+The arrays in this program had to be declared to hold 10 elements to specify that we only want 10 elements in the array. By declaring int high[10];, we specify that we want an array named high with 10 integer elements, and allocate contiguous storage as so in the RAM.
+
+Parallel arrays have an advantage in being easy to read and utlize (ex. the high & low arrays in the workshop has the same number of elements, operates on the same index, but stores different value per index. The disadvantage of using a parallel array may arise from the confusion when there's a lack of documentation or intuitive relation between the arrays. If no information relates the arrays together, the index may be used in a wrong manner.
+
+The home portion of the workshop was, conceptually, easier. It felt like a regurgitation of the lab component + Workshop 3, and the difficulty came from wrapping my head around the logic of getting the do-while and for loops in correct places, but the components themselves could be reused from the previous workshops.

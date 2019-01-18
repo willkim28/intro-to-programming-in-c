@@ -1,0 +1,16 @@
+/* -------------------------------------------
+Name: Woohyun Will Kim
+Student number: 122733157
+Email: wkim31@myseneca.ca
+Section: K
+Date: 31 July 2018
+----------------------------------------------
+Assignment: 2
+Milestone:  4 Reflection
+---------------------------------------------- */
+
+1. The two functions findContactIndex and getTenDigitPhone, are used extensibly and repeatedly in this assignment.
+By defining them as a function, it improves readability by reducing the total number of lines, and improves productivity by being able to debug more easily (only have to fix the functions that are not working as intended)
+
+2. This assignment has gotten me (relatively) comfortable using functions, and has helped me understand using pointers.
+With functions, being able to understand parameter has improved my ability to utilize functions to call and manage variables.

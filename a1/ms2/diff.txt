@@ -1,0 +1,10 @@
+
+In line number 41 of your output:
+The output should be:
+Structure test for Name, Address, and Numbers Done!
+But your output is: 
+Structure test for Name, Address, and Numbers Done!]0;wkim31@mtrx-node01pd:~/ms2[wkim31@mtrx-node01pd ms2]$ exit
+                                                   ^
+---------------------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(1b), dec(27)

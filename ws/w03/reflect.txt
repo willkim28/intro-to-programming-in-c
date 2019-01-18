@@ -1,0 +1,7 @@
+The iteration constructs are: 'for', 'while', and 'do while'. For this particular workshop, I have only utilized the 'for' construct.
+
+A 'do while' construct would execute the sequence at least once, and then continue until certain conditions are met. A 'while' construct would only execute if the conditions are met first. Given the same condition (that would exit the sequence), a 'do while' construct would execute once, and a 'while' construct would not execute at all.
+
+The conditional expression is a construct which acts as a shorthand for alternative path (if ... else...) construct. Instead of using the if and else conditions, the expression is shortened to:
+condition ? operand : operand
+'?' acts as 'if', and ':' acts as 'else'. 'If' condition is met, the operand immediately following ? is evaluated. 'Else', the operand following ':' is evaluated instead.

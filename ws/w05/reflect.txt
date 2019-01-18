@@ -1,0 +1,15 @@
+/*
+Name: Woohyun Will Kim
+Student number: 122733157
+Email: wkim31@myseneca.ca
+Workshop: 05@Home
+Section: K
+Date: 19/06/2018
+*/
+
+1. By having multiple related data under a single name, it offers ease of access and reading.
+By declaring a struct (and an array of) you explicitly know which variables are relevant by looking at the declaration; with parallel arrays, it's harder to know at a glance if the array is part of the operation or not.
+
+By storing the declaration in a separate header file, the file is separate from the source file. (In this workshop, could have emps.h along with emp_athome.c)
+Keeping the header separate allows us to keep the code organized. The modifications that we want to make becomes specific to the source file, and allows us to keep our code modular.
+Also, by keeping the header separate, it will allow for faster compile time as the program size grows.

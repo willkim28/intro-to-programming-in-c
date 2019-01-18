@@ -1,0 +1,14 @@
+/* -------------------------------------------
+Name: Woohyun Will Kim
+Student number: 122733157
+Email: wkim31@myseneca.ca
+Section: K
+Date: 24 July 2018
+----------------------------------------------
+Assignment: 2
+Milestone:  2 Reflection
+---------------------------------------------- */
+
+1. A function is a group of statements/commands that will perform a task. It is not productive to repeatedly write identical multiple lines of code, so functions are utilized. Due to its modular nature, it can compress the number of lines in a code, and can improve productivity by reusing functions in any language.
+
+2. I think the helper functions were included in a separate file to help us understand the modularity of functions. By construction helper functions, and then injecting them to functions in contacts.c, it gave us a better understanding of how functions could be called and utilized.

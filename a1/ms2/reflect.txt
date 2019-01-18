@@ -1,0 +1,17 @@
+-------------------------------------------
+Name: Woohyun Will Kim
+Student number: 122733157
+Email: wkim31@myseneca.ca
+Section: K
+Date: 10 July 2018
+----------------------------------------------
+Assignment: 1
+Milestone:  2
+Reflection.txt
+----------------------------------------------
+
+1. For inputting the optional parts, I think using a switch statement would be much more useful.
+Using a switch would cut down on unnecessary prompts as even if a person does not need to enter any of the optional inputs, they still have to get through all the prompts.
+By allowing a person to pick and choose the inputs, it will expedite the process.
+
+2. C string, that is required to store up to 'n' characters, must be capable of storing 'n+1' characters, since it must allow an extra for the null terminator.
